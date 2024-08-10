@@ -22,7 +22,7 @@ This project is a basic Rock-Paper-Scissors game that allows a human player to p
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/rock-paper-scissors.git
+    git clone https://github.com/awinooliyo/rock_paper_scissors.git
     ```
 2. Navigate to the project directory:
     ```sh
